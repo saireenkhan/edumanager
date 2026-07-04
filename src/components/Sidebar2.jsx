@@ -11,7 +11,7 @@ import {
   Menu,
   X,
 } from "lucide-react";
-import "../css/SideBar.css";
+import "../css/Sidebar.css";
 
 export default function Sidebar2() {
   const location = useLocation();
